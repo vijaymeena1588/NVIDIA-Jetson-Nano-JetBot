@@ -14,11 +14,6 @@ Here are some images and a video demonstrating the JetBot in action.
   <img src="Images/Front.jpg" alt="Front view of the JetBot" width="600"/>
 </p>
 
-### Top View
-<p align="center">
-  <img src="Images/Top.jpg" alt="Top view of the JetBot" width="600"/>
-</p>
-
 ### Side View
 <p align="center">
   <img src="Images/left.jpg" alt="Side view of the JetBot" width="600"/>
@@ -26,8 +21,10 @@ Here are some images and a video demonstrating the JetBot in action.
 
 ### Demonstration Video
 <p align="center">
-  <video src="Images/Video.mp4" controls width="600"></video>
+  <a href="Images/Video.mp4" download>Download Demonstration Video</a>
 </p>
+
+---
 
 ---
 
