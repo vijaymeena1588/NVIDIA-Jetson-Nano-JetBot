@@ -26,8 +26,6 @@ Here are some images and a video demonstrating the JetBot in action.
 
 ---
 
----
-
 ## 🤖 Features
 
 * **Basic Motion:** Control the robot's movement (forward, backward, turn) via a remote interface.
